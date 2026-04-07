@@ -165,7 +165,6 @@ int main() {
         printf("-  2 - Listar pessoas          -\n");
         printf("-  3 - Editar pessoa           -\n");
         printf("-  4 - Remover pessoa          -\n");
-        printf("-  5 - Buscar por nome         -\n");
         printf("-  0 - Sair                    -\n");
         printf("--------------------------------\n");
         char buf[32];
